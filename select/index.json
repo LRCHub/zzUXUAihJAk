@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Alright",
+  "base_artist": "Suchmos",
+  "createdAt": "2026-02-06T10:28:03.366702Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "be alright",
+      "artist": "Jimmie Allen",
+      "has_synced": true,
+      "path": "select/01_be_alright_Jimmie_Allen.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "A Couple Wrongs Makin' It Alright",
+      "artist": "Brothers Osborne",
+      "has_synced": true,
+      "path": "select/02_A_Couple_Wrongs_Makin'_It_Alright_Brothers_Osborne.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Alright",
+      "artist": "Darius Rucker",
+      "has_synced": true,
+      "path": "select/03_Alright_Darius_Rucker.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Don't It Sound Alright",
+      "artist": "Adam Doleac",
+      "has_synced": true,
+      "path": "select/04_Don't_It_Sound_Alright_Adam_Doleac.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "I'm Alright",
+      "artist": "Jo Dee Messina",
+      "has_synced": true,
+      "path": "select/05_I'm_Alright_Jo_Dee_Messina.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "That'd Be Alright",
+      "artist": "Alan Jackson",
+      "has_synced": false,
+      "path": "select/06_That'd_Be_Alright_Alan_Jackson.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "That'd Be Alright",
+      "artist": "Alan Jackson",
+      "has_synced": true,
+      "path": "select/07_That'd_Be_Alright_Alan_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Everything Will Be Alright",
+      "artist": "The Killers",
+      "has_synced": true,
+      "path": "select/08_Everything_Will_Be_Alright_The_Killers.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "We'll Probably Be Alright",
+      "artist": "Kurt Travis",
+      "has_synced": false,
+      "path": "select/09_We'll_Probably_Be_Alright_Kurt_Travis.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "It's Alright",
+      "artist": "Salt-N-Pepa",
+      "has_synced": false,
+      "path": "select/10_It's_Alright_Salt-N-Pepa.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Everything's Alright - 1999 Remastered Version",
+      "artist": "David Bowie",
+      "has_synced": false,
+      "path": "select/11_Everything's_Alright_-_1999_Remastered_Version_David_Bowie.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Everythings Alright",
+      "artist": "David Bowie",
+      "has_synced": false,
+      "path": "select/12_Everythings_Alright_David_Bowie.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Be Alright",
+      "artist": "Zapp",
+      "has_synced": false,
+      "path": "select/13_Be_Alright_Zapp.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "It's Alright with Me",
+      "artist": "The Zombies",
+      "has_synced": false,
+      "path": "select/14_It's_Alright_with_Me_The_Zombies.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Alright",
+      "artist": "Mr. Fingers",
+      "has_synced": true,
+      "path": "select/15_Alright_Mr._Fingers.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Alright",
+      "artist": "Mitch Murder feat. Kristine",
+      "has_synced": false,
+      "path": "select/16_Alright_Mitch_Murder_feat._Kristine.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ALRIGHT",
+      "artist": "Suchmos",
+      "has_synced": false,
+      "path": "select/pl_01_ALRIGHT_Suchmos.txt"
+    }
+  ]
+}
